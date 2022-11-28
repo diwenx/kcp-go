@@ -1,4 +1,4 @@
-module github.com/diwenx/kcp-go/v5
+module github.com/diwenx/kcp-go/v6
 
 require (
 	github.com/klauspost/reedsolomon v1.10.0
