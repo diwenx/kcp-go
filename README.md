@@ -1,5 +1,6 @@
 <img src="kcp-go.png" alt="kcp-go" height="50px" />
 
+(Forked from xtaci/kcp-go with MTU cap increased from 1500 to 10000)
 
 [![GoDoc][1]][2] [![Powered][9]][10] [![MIT licensed][11]][12] [![Build Status][3]][4] [![Go Report Card][5]][6] [![Coverage Statusd][7]][8] [![Sourcegraph][13]][14]
 
